@@ -36,6 +36,7 @@ public class Greeter {
             if(logger.isDebugEnabled()){
                 logger.debug("Greeting is: " + greeting);
             }
+            System.out.println(greeting);
         } catch (UnsupportedEncodingException e) {
             System.out.println("Can't encode your greetings.");
             logger.error("Can't encode your greetings.", e);
