@@ -1,0 +1,28 @@
+2016-05-10 23:13:46 DEBUG Greeter:22 - Im Main
+2016-05-10 23:14:06 DEBUG Greeter:22 - Im Main
+2016-05-10 23:18:02 DEBUG Greeter:45 - Current hour is23
+2016-05-10 23:21:18 DEBUG Greeter:46 - Current hour is23
+2016-05-10 23:21:18 DEBUG Greeter:62 - Current time of a Day is: 
+2016-05-10 23:23:34 DEBUG Greeter:46 - Current hour is23
+2016-05-10 23:23:34 DEBUG Greeter:62 - Current time of a Day is: 
+2016-05-10 23:24:16 DEBUG Greeter:46 - Current hour is: 23
+2016-05-10 23:24:16 DEBUG Greeter:62 - Current time of a Day is: 
+2016-05-10 23:28:01 DEBUG Greeter:46 - Current hour is: 23
+2016-05-10 23:28:01 DEBUG Greeter:62 - Current time of a Day is: night
+2016-05-10 23:28:23 DEBUG Greeter:22 - In Main
+2016-05-10 23:28:23 DEBUG Greeter:46 - Current hour is: 23
+2016-05-10 23:28:23 DEBUG Greeter:62 - Current time of a Day is: night
+2016-05-10 23:33:32 DEBUG Greeter:22 - In Main
+2016-05-10 23:33:32 INFO  Greeter:29 - This is info : English (United States)
+2016-05-10 23:33:32 DEBUG Greeter:50 - Current hour is: 23
+2016-05-10 23:33:32 DEBUG Greeter:66 - Current time of a Day is: night
+2016-05-10 23:37:33 DEBUG Greeter:22 - In Main
+2016-05-10 23:37:33 DEBUG Greeter:28 - Locale is English (United States)
+2016-05-10 23:37:33 DEBUG Greeter:54 - Current hour is: 23
+2016-05-10 23:37:33 DEBUG Greeter:70 - Current time of a Day is: night
+2016-05-10 23:37:33 DEBUG Greeter:37 - Greetings is Good night, World!
+2016-05-10 23:38:00 DEBUG Greeter:22 - In Main
+2016-05-10 23:38:00 DEBUG Greeter:28 - Locale is English (United States)
+2016-05-10 23:38:00 DEBUG Greeter:54 - Current hour is: 23
+2016-05-10 23:38:00 DEBUG Greeter:70 - Current time of a Day is: night
+2016-05-10 23:38:00 DEBUG Greeter:37 - Greeting is: Good night, World!
